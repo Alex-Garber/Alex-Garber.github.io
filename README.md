@@ -11,4 +11,4 @@ I am an egar determand student currently attending the Jave/Android boot camp at
 * Hello work: Android app
 
 ## Links
-[LinkedIn]({https://www.linkedin.com/in/alex-garber})
+[LinkedIn](https://www.linkedin.com/in/alex-garber-a009281b4/)
