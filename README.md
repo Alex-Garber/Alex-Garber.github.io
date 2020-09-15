@@ -7,4 +7,7 @@ I am an egar determand student currently attending the Jave/Android boot camp at
  
 ## Current projects 
 
+* Hello world: Java console appalication
+* Hello work: Android app
+
 ## Links
