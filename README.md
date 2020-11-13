@@ -1,5 +1,3 @@
-# Alex Garber
-
 ## Introduction
 
 I am an egar determand student currently attending the Jave/Android boot camp at cnm.
