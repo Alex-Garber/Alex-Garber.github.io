@@ -10,3 +10,10 @@ I am an egar determand student currently attending the Jave/Android boot camp at
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/alex-garber-a009281b4/)
+
+## Recently updated repositories
+
+{% assign public_repositories = site.github.public_repositories | where: 'fork', false | sort: 'updated_at' | reverse %}
+{% for repo in public_repositories limit: 10 %}
+* [{{ repo.name }}]({{ repo.html_url}})
+{% endfor %}
