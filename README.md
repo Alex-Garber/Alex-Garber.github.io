@@ -11,11 +11,21 @@ I finally realized good things don't come easily. Good things come from hard wor
 
 Some of my skills include (so far) Object-oriented programming Java, SQL, Junit testing, Intellij Idea, Markdown, Git Bash, Json, Building servers with Spring boot and androidx room, Android, Groovey, creating Entity-relationship Diagrams,  Designing wireframes for applications, leadership skills, problem-solving, customer service skills, with much more to come.
 
+##  Areas of interest in software development
+
+* Application Development
+* Mobile Development
+* API Development
+* Software Tools Development
+* Cloud Computing
+* Security Software Development
+
 ## Current projects 
 
 * [Smart Cheff](https://alex-garber.github.io/smart-cheff/)
+	SmartCheff is an app that allows the user to input any amount of ingredients manually or with the camera if the ingredient has a barcode. After the user has inputted the ingredients of their choice and selected the search button, recipes are presented that include the ingredients inputted. 
 * [Picme Gallery](https://picme-gallery.github.io/)
-
+	PicMe Gallery, is an app that allows users who are out at an event, or who are traveling together to get access to a secure, cloud-based photo gallery via a shared password.
 ## Links
 [LinkedIn](https://www.linkedin.com/in/alex-garber-a009281b4/)
 
