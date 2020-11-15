@@ -23,9 +23,9 @@ Some of my skills include (so far) Object-oriented programming Java, SQL, Junit 
 ## Current projects 
 
 * [Smart Cheff](https://alex-garber.github.io/smart-cheff/)
-	SmartCheff is an app that allows the user to input any amount of ingredients manually or with the camera if the ingredient has a barcode. After the user has inputted the ingredients of their choice and selected the search button, recipes are presented that include the ingredients inputted. 
+	is an app that allows the user to input any amount of ingredients manually or with the camera if the ingredient has a barcode. After the user has inputted the ingredients of their choice and selected the search button, recipes are presented that include the ingredients inputted. 
 * [Picme Gallery](https://picme-gallery.github.io/)
-	PicMe Gallery, is an app that allows users who are out at an event, or who are traveling together to get access to a secure, cloud-based photo gallery via a shared password.
+	 is an app that allows users who are out at an event, or who are traveling together to get access to a secure, cloud-based photo gallery via a shared password.
 ## Links
 [LinkedIn](https://www.linkedin.com/in/alex-garber-a009281b4/)
 
