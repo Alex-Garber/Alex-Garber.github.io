@@ -14,7 +14,7 @@ Some of my skills include (so far) Object-oriented programming Java, SQL, Junit 
 ## Current projects 
 
 * [Smart Cheff](https://alex-garber.github.io/smart-cheff/)
-* [Picme Gallery](https://picme-gallery.github.io/
+* [Picme Gallery](https://picme-gallery.github.io/)
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/alex-garber-a009281b4/)
